@@ -14,7 +14,7 @@ This repository aims at developing a ***CycleGAN*** model to translate photos of
 - To train and test the ***CycleGAN*** model along with plotting the results, run `Cycle_GAN_to_translate_Images.py`
 - To translate multiple images using ad-hoc image translation process with the help of trained ***CycleGAN***, run `Image_Translation_with_Cycle_GAN_Generators.py`
 - To translate merely individual images using the trained ***CycleGAN*** model, run `Single_Image_Translation_with_Cycle_GAN_Generators.py`
-- All hyperparamters to control training and testing of the ***CycleGAN*** model in single as well as multiple image translation settings are provided in their respective `.py` files.
+- All hyperparameters to control training and testing of the ***CycleGAN*** model in single as well as multiple image translation settings are provided in their respective `.py` files.
 - The average loss for both generator and discriminator components of the ***CycleGAN*** model for each of the two catagories (***Horse (A)*** and ***Zebra (B)***) are printed after every epoch.
 ## Output Samples
 ### Few Examples of Image Dataset
